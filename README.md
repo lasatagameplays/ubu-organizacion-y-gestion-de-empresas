@@ -67,7 +67,7 @@ Como mejora avanzada del diseño, se plantea la posibilidad de recoger la soluci
 
 ### 🏆 Resultados Académicos
 * **Calificación obtenida:** 92.00 / 100.00
-* **Comentario del profesor:** "Bastante bien RUbén. Recuerda que conviene exprimir la solución encadenándolo con una búsqueda local. Enhorabuena"
+* **Comentario del profesor:** "Bastante bien Rubén. Recuerda que conviene exprimir la solución encadenándolo con una búsqueda local. Enhorabuena"
 
 ### 🚀 Instrucciones de Ejecución
 Para probar esta versión del algoritmo en MATLAB, sigue estos pasos:
