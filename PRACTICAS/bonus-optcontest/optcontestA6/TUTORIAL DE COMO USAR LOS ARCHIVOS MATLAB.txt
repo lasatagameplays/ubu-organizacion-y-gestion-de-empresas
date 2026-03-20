@@ -1,0 +1,24 @@
+Primero ejecuta el comando siguiente sin comillas si quieres ejecutar el programa con el archivo por
+defecto llamado "test.txt":
+"[Fmed, tiempo, secuencia] = optcontestA6()"
+
+Otra forma de ejecutar el programa por defecto:
+"optcontestA6()"
+
+En caso de querer ejecutar el programa con otro archivo o con el propio "test.txt" y no por defecto sería:
+"[Fmed, tiempo, secuencia] = optcontestA6('test.txt')"
+
+Otro ejemplo:
+"[Fmed, tiempo, secuencia] = optcontestA6('ejem_clase1.txt')"
+
+Otra forma seria:
+"optcontestA6('test.txt')"
+
+O:
+"optcontestA6('ejem_clase1.txt')"
+
+
+Ahora te saldrán los resultados, y te guardara los resultados en un documento txt que te genera 
+automaticamente el programa con el nombre "resultados_%s_%s.txt" donde el primer %s es el nombre del archivo
+que hemos utilizado en el programa por ejemplo "ejem_clase1.txt" y el segundo %s es la fecha actual como por
+ejemplo "20251219_035111" donde pues seria 19-12-2025 a las 03:51:11

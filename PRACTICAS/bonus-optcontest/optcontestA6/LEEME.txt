@@ -1,0 +1,48 @@
+=== OPTIMIZATION CONTEST - EQUIPO A6 ===
+Organización y Gestión de Empresas - Universidad de Burgos
+
+EQUIPO: A6 - "Los Trifuerza"
+INTEGRANTE: Rubén Castañeda Matute
+FECHA: Diciembre 2025
+
+INSTRUCCIONES DE EJECUCIÓN:
+
+1. Asegúrese de que todos los archivos .m estén en el mismo directorio
+
+2. Ejecute en MATLAB: 
+        
+        [Fmed, tiempo, secuencia] = optcontestA6()
+
+    O ejecuta con parametro para poner un archivo diferente al default:
+        [Fmed, tiempo, secuencia] = optcontestA6('ejem_clase1.txt')
+
+    Otra forma sencilla de ejecutar el programa sin guardar explícitamente las variables de salida 
+    (Fmed se guardará en 'ans' y el resto se verán por pantalla), y que sea por defecto
+    el archivo "test.txt" (Solo mostrara por pantalla los resultados y guardara estos en un archivo):
+        optcontestA6
+
+3. El programa ejecutara el archivo "test.txt" si no le pasas parametros
+
+ADVERTENCIA: El archivo debe estar en el mismo directorio
+
+(Hay varios archivos txt en el zip que descomprimio para usarse en el programa, 
+pero si desea usar los suyos tambien puedes usarlos)
+
+4. El programa mostrará:
+   - Progreso del algoritmo
+   - Resultados finales (Fmed, tiempo, secuencia)
+   - Despues de ver los resultados el programa guardara los resultados en un archivo txt
+
+PARA USO DE UN DOCUMENTO TXT PROPIO SIGA LO SIGUIENTE:
+
+Formato del archivo:
+   - Primera línea: "número_órdenes número_máquinas"
+   - Líneas siguientes: "0 tiempo1 1 tiempo2 ... n-1 tiempo_n"
+
+MODOS DE USO:
+
+a) Testing interactivo (Con el archivo que desee usar por ejemplo ejem_clase1.txt o test.txt):
+   >> [Fmed, tiempo, secuencia] = optcontestA6('ejem_clase1.txt')
+
+b) Ejecución rápida (Sin interacción, el cuál ejecutara por defecto el archivo "test.txt"):
+   >> [Fmed, tiempo, secuencia] = optcontestA6()

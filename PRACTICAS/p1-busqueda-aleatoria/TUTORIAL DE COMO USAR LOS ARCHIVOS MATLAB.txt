@@ -1,0 +1,5 @@
+Primero ejecuta el comando siguiente sin comillas: "flowshop_busqueda_aleatoria"
+Ahora te pedirá el nombre de un archivo por ejemplo (Sin comillas): "ejem_clase1.txt"
+Ahora te pedirá el número de iteraciones por ejemplo (Sin comillas): "30"
+Ahora te pedirá si quieres el algoritmo por Fmax o por Fmed.
+Ahora te saldrán por texto el resultado, te hara el grafico por colores, y un grafico lineal.

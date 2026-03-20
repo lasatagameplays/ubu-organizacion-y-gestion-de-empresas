@@ -1,0 +1,58 @@
+========================================
+OPTIMIZATION CONTEST - RESULTADOS
+Equipo: A6 - "Los Trifuerza"
+Integrante: Rubén Castañeda Matute
+Fecha: 19/12/2025 07:09:04
+Archivo de entrada: test.txt
+========================================
+
+RESULTADOS DETALLADOS:
+----------------------
+Fecha y hora al iniciar la ejecución: 19/12/2025 07:08:19
+Fecha y hora al acabar la ejecución: 19/12/2025 07:09:04
+Diferencia de fecha y hora al iniciar con la acabada: 00:00:45
+
+Fmed (tiempo promedio de flujo): 2900.53
+Tiempo de ejecución: 45.80 segundos
+ESTADO: DENTRO DEL LÍMITE DE TIEMPO
+Margen de seguridad: 14.20 segundos
+
+SECUENCIA ÓPTIMA:
+-----------------
+Número de elementos: 75
+
+Secuencia completa:
+5 29 40 3 31 53 67 35 37 7 36 9 6 1 60 20 39 54 47 70 
+61 74 2 18 33 32 23 63 59 11 22 56 30 49 26 69 8 75 42 43 
+68 24 51 25 14 17 44 55 45 58 21 73 10 12 19 13 64 16 4 65 
+57 28 46 72 34 15 41 71 52 27 62 50 38 48 66 
+
+========================================
+PARA EL CONCURSO ENTREGO LO SIGUIENTE:
+========================================
+Fmed: 2900.53
+Tiempo: 45.80
+Secuencia:5 29 40 3 31 53 67 35 37 7 36 9 6 1 60 20 39 54 47 70 61 74 2 18 33 32 23 63 59 11 22 56 30 49 26 69 8 75 42 43 68 24 51 25 14 17 44 55 45 58 21 73 10 12 19 13 64 16 4 65 57 28 46 72 34 15 41 71 52 27 62 50 38 48 66 
+
+========================================
+INFORMACIÓN DEL ALGORITMO:
+========================================
+Estrategia: Algoritmo híbrido
+
+Fases:
+  1. Inicialización múltiple (aleatoria, SPT, LPT)
+  2. Recocido Simulado con enfriamiento geométrico
+  3. Búsqueda Local intensiva
+
+Parámetros:
+  - Temperatura inicial: 500
+  - Temperatura final: 0.1
+  - Factor enfriamiento: 0.95
+  - Tiempo máximo: 58s (2s margen)
+
+========================================
+ESTADÍSTICAS ADICIONALES:
+========================================
+Hora de inicio: 19/12/2025 07:09:04
+Tamaño del problema: 75 órdenes
+Archivo de resultados: resultados_test_20251219_070904.txt

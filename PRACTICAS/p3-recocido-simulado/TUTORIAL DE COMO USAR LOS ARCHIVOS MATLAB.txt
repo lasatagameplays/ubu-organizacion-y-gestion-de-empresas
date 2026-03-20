@@ -1,0 +1,8 @@
+Primero ejecuta el comando siguiente sin comillas: "flowshop_recocido_simulado"
+Ahora te pedirá el nombre de un archivo por ejemplo (Sin comillas): "ejem_clase1.txt"
+Ahora te pedirá si quieres el algoritmo por Fmax o por Fmed.
+Ahora te pedirá la temperatura inicial por ejemplo (Sin comillas): "10"
+Ahora te pedirá la temperatura final por ejemplo (Sin comillas): "50"
+Ahora te pedirá el número de iteraciones por temperatura por ejemplo (Sin comillas): "3000"
+Ahora te pedirá el factor de enfriamiento del 0 al 1 por ejemplo (Sin comillas): "0.5"
+Ahora te saldrán por texto el resultado, te hara el grafico por colores, y dos graficos lineales.

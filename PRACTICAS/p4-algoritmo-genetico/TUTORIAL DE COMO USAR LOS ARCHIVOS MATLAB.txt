@@ -1,0 +1,9 @@
+Primero ejecuta el comando siguiente sin comillas: "flowshop_algoritmo_genetico"
+Ahora te pedirá el nombre de un archivo por ejemplo (Sin comillas): "ejem_clase1.txt"
+Ahora te pedirá si quieres el algoritmo por Fmax o por Fmed.
+Ahora te pedirá el tamaño de la poblacion por ejemplo (Sin comillas): "50"
+Ahora te pedirá el numero de generaciones por ejemplo (Sin comillas): "20"
+Ahora te pedirá la probabilidad de cruze del 0 al 1 por ejemplo (Sin comillas): "0.5"
+Ahora te pedirá la probabilidad de mutacion del 0 al 1 por ejemplo (Sin comillas): "0.5"
+Ahora te pedirá el metodo de selecion por ruleta o por torneo.
+Ahora te saldrán por texto el resultado, te hara el grafico por colores, y dos graficos lineales.
